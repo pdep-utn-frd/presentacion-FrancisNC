@@ -16,6 +16,7 @@
 
 - **Ciudad:** Zárate
 - **Edad:** 21
+- **Formación:** Instituto San Francisco de Asis (ISFA)
 - **Título Secundario:** Bachiller en Economía y Administración
 - **Hobbies:** Jugar videojuegos, escuchar música y escribir historias 
 
