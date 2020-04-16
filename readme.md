@@ -16,7 +16,8 @@
 
 - **Ciudad:** Zárate
 - **Edad:** 21
-- **Hobbies:** Jugar videojuegos, escuchar música y escribir historias. 
+- **Título Secundario:** Bachiller en Economía y Administración
+- **Hobbies:** Jugar videojuegos, escuchar música y escribir historias 
 
 ~~~
 Actualmente ando sin PC y le robé la notebook a mi familia :)
